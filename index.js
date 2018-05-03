@@ -8,8 +8,6 @@ function logShout(string) {
   console.log(string.toUpperCase)
 }
 
-logShout("hello")
-
 
 
 
