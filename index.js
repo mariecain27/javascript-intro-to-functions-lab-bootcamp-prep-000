@@ -12,7 +12,7 @@ function logShout(string) {
   console.log("${string}")
 }
 
-logShout.toUpperCase
+logShout("hello").toUpperCase
 
 
 
